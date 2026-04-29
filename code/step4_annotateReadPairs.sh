@@ -32,7 +32,8 @@ done
 
 
 # Step4
-# Look for Alu in R2; Annotate with coordinates from R1
+# Look for Alu in R2 using annotated Alu from IMR90
+# Annotate sites with coordinates based on R1
 ALU_BED=genome/aluRef/IMR90_hap1.Alu.bed
 OUT=alu_hap1_results.tsv
 
